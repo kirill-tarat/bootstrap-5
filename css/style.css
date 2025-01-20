@@ -1,0 +1,19 @@
+section{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.carousel-control-prev-icon {
+    background-image: url(../img/2849832-arrow-arrows-back-interface-left-multimedia-navigation_107965.svg) ;
+}
+.carousel-control-next-icon {
+    background-image: url(../img/2849833-arrow-arrows-forward-interface-multimedia-navigation-right_107957.svg);
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    width: 150px;
+}
+.carousel-control-prev {
+    left: -150px;
+}
+.carousel-control-next {
+    left: 1245px;
+}
